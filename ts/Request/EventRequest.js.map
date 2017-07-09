@@ -1,0 +1,1 @@
+{"version":3,"sources":["EventRequest.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qCAAgC;AAChC;IAAkC,gCAAO;IAAzC;;IAEA,CAAC;IAAD,mBAAC;AAAD,CAFA,AAEC,CAFiC,oBAAO,GAExC;AAFY,oCAAY","file":"EventRequest.js","sourcesContent":["import Request from \"./Request\";\nexport class EventRequest extends Request {\n\n}\n"]}

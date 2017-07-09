@@ -1,0 +1,1 @@
+{"version":3,"sources":["ContextsRequest.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qCAAgC;AAChC;;GAEG;AAEH;IAAqC,mCAAO;IAA5C;;IAA8C,CAAC;IAAD,sBAAC;AAAD,CAA9C,AAA+C,CAAV,oBAAO,GAAG;AAAlC,0CAAe","file":"ContextsRequest.js","sourcesContent":["import Request from \"./Request\";\n/**\n * @todo: implement\n */\n\nexport class ContextsRequest extends Request {}\n"]}

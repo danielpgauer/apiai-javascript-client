@@ -1,0 +1,1 @@
+{"version":3,"sources":["TextRequest.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qCAAgC;AAChC;IAAyC,+BAAO;IAAhD;;IAEA,CAAC;IAAD,kBAAC;AAAD,CAFA,AAEC,CAFwC,oBAAO,GAE/C","file":"TextRequest.js","sourcesContent":["import Request from \"./Request\";\nexport default class TextRequest extends Request {\n\n}\n"]}

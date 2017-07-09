@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":[],"mappings":";;;;;AAAA,yCAAyC;AACzC,sCAAiC","file":"index.js","sourcesContent":["/// <reference path=\"declarations.d.ts\"/>\nexport * from \"./ts/ApiAiClient\";\n"]}
